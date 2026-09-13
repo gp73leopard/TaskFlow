@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.group</groupId>
-    <artifactId>Tasker</artifactId>
+    <artifactId>TaskFlow</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Tasker</name>
-    <description>Tasker</description>
+    <name>TaskFlow</name>
+    <description>TaskFlow</description>
     <url/>
     <licenses>
         <license/>

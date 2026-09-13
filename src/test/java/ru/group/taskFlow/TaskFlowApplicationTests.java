@@ -1,10 +1,10 @@
-package ru.group.tasker;
+package ru.group.taskFlow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskerApplicationTests {
+class TaskFlowApplicationTests {
 
     @Test
     void contextLoads() {
